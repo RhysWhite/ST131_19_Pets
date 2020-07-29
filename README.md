@@ -15,7 +15,7 @@ whole genome sequencing & built/analysed the phylogenetic tree.
 
 The Illumina sequence read data have been submitted to the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA) under BioProject PRJNA627752 (20 paired reads).
 
-# Mapping the SRA accession to strain identifier
+## Mapping the SRA accession to strain identifier
 
 The following table facilitates this:
 
@@ -42,11 +42,18 @@ The following table facilitates this:
 | MS10908 | 2435694 | SRR11608163 | SAMN14686272 |
 | Q13/1/261 | Q13/1/261 | SRR11608162 | SAMN14686315 |
 
-# Getting the data
+## Getting the data
 Note: The data is ~102.4 MB
 
 **Option 1) Download the current release as an archive:**
+-To do!
 
-With wget:
-```$ wget https://github.com/BeatsonLab-MicrobialGenomics/ST131_99/archive/1.0.tar.gz -O ST131_99-1.0.tar.gz```
+**Option 2) Clone the current master branch in this repository:**
+
+Please ensure you have git installed. git can be really useful for scientists. See [here] (http://blogs.biomedcentral.com/bmcblog/2013/02/28/version-control-for-scientific-research/) for some discussion.
+
+With git:
+
+```$ git clone --recursive https://github.com/RhysWhite/ST131_19_Pets.git
+# The --recursive option is used to pull down all the smaller repositories```
 
