@@ -54,5 +54,8 @@ Please ensure you have git installed. git can be really useful for scientists. S
 
 With git:
 
-```$ git clone --recursive https://github.com/RhysWhite/ST131_19_Pets.git # The --recursive option is used to pull down all the smaller repositories```
+```
+$ git clone --recursive https://github.com/RhysWhite/ST131_19_Pets.git 
+# The --recursive option is used to pull down all the smaller repositories
+```
 
