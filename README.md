@@ -50,7 +50,7 @@ Note: The data is ~102.4 MB
 
 **Option 2) Clone the current master branch in this repository:**
 
-Please ensure you have git installed. git can be really useful for scientists. See [here] (http://blogs.biomedcentral.com/bmcblog/2013/02/28/version-control-for-scientific-research/) for some discussion.
+Please ensure you have git installed. git can be really useful for scientists. See [here](http://blogs.biomedcentral.com/bmcblog/2013/02/28/version-control-for-scientific-research/) for some discussion.
 
 With git:
 
