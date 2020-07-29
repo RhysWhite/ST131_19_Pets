@@ -14,7 +14,7 @@ AKK performed experiments, data analysis, drafted & prepared the manuscript. RTW
 
 The Illumina sequence read data have been submitted to the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA) under BioProject PRJNA627752 (20 paired reads).
 
-# Mapping the SRA accession to Strain identifier
+# Mapping the SRA accession to strain identifier
 
 The following table facilitates this:
 
@@ -40,3 +40,12 @@ The following table facilitates this:
 | MS10903 | MU4 | SRR11608164 | SAMN14686271 |
 | MS10908 | 2435694 | SRR11608163 | SAMN14686272 |
 | Q13/1/261 | Q13/1/261 | SRR11608162 | SAMN14686315 |
+
+# Getting the data
+Note: The data is ~102.4 MB
+
+**Option 1) Download the current release as an archive:**
+
+With wget:
+```$ wget https://github.com/BeatsonLab-MicrobialGenomics/ST131_99/archive/1.0.tar.gz -O ST131_99-1.0.tar.gz```
+
