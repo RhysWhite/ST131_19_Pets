@@ -13,7 +13,7 @@ AKK performed experiments, data analysis, drafted & prepared the manuscript. RTW
 whole genome sequencing & built/analysed the phylogenetic tree. 
 ```
 
-The Illumina sequence read data have been submitted to the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA) under BioProject PRJNA627752 (20 paired reads).
+The Illumina sequence read data have been submitted to the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA) under BioProject [PRJNA627752](https://dataview.ncbi.nlm.nih.gov/object/PRJNA627752?reviewer=81pm20s9n7mj2kku719fs34ein) (20 paired reads).
 
 ## Mapping the SRA accession to strain identifier
 
