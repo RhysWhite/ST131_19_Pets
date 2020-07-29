@@ -20,7 +20,7 @@ Contains:
 - Assemblies/ - the assembled contigs from Velvet that have been ordered against *E. coli* ST131 strain EC958 [(GenBank: HG941718.1)](https://www.ncbi.nlm.nih.gov/nuccore/HG941718.1) [PUBMED ID: 25126841](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4134206/).
   - The complete EC958 genome can be downloaded from this directory.
   - Contigs from the draft assemblies were ordered against the complete chromosome of EC958 using [Mauve](http://darlinglab.org/mauve/mauve.html) by [Darling, *et al*. (2004)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC442156/).
-- [ ] The assembly statistics are provided.
+- The assembly statistics are provided.
 
 ## Matching the SRA accession to strain identifier
 
