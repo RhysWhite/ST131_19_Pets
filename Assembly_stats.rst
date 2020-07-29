@@ -10,17 +10,17 @@ Methodology
 
 3) Quality-trimmed paired-end reads were *de novo* assembled using the `Microbial Genome Assembler Pipeline (MGAP) <https://github.com/dsarov/MGAP---Microbial-Genome-Assembler-Pipeline>`_.
 
-MGAP implements:
-  - Velvet v1.2.10 `(Zerbino & Birney, 2008) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2336801/>`_
-  - VelvetOptimiser (https://github.com/tseemann/VelvetOptimiser)
-  - GapFiller v1.10 `(Boetzer & Pirovano, 2012) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3446322/>`_
-  - ABACAS v1.3.1 `(Assefa et al., 2009) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2712343/>`_ (scaffolds against the chromosome of EC958)
-  - IMAGE v2.4 `(Tsai et al., 2010) <https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-4-r41>`_
-  - SSPACE v2.0 `(Boetzer et al., 2011) <https://academic.oup.com/bioinformatics/article/27/4/578/197626>`_
-  - Pilon v1.22 `(Walker et al., 2014) <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112963>`_
-  - MIRA v4 `(Chevreux et al., 2004) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC419793/>`_
+  MGAP implements:
+    - Velvet v1.2.10 `(Zerbino & Birney, 2008) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2336801/>`_
+    - VelvetOptimiser (https://github.com/tseemann/VelvetOptimiser)
+    - GapFiller v1.10 `(Boetzer & Pirovano, 2012) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3446322/>`_
+    - ABACAS v1.3.1 `(Assefa et al., 2009) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2712343/>`_ (scaffolds against the chromosome of EC958)
+    - IMAGE v2.4 `(Tsai et al., 2010) <https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-4-r41>`_
+    - SSPACE v2.0 `(Boetzer et al., 2011) <https://academic.oup.com/bioinformatics/article/27/4/578/197626>`_
+    - Pilon v1.22 `(Walker et al., 2014) <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112963>`_
+    - MIRA v4 `(Chevreux et al., 2004) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC419793/>`_
   
-  4) QUAST v4.5 `(Gurevich et al., 2013) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3624806/>`_ assessed the assembly statistics generated from MGAP by comparing each isolate to EC958. 
+4) QUAST v4.5 `(Gurevich et al., 2013) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3624806/>`_ assessed the assembly statistics generated from MGAP by comparing each isolate to EC958. 
 
 ------------
 
