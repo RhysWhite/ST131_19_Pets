@@ -52,7 +52,10 @@ The following table facilitates this:
 Note: The data is ~102.4 MB
 
 **Option 1) Download the current release as an archive:**
--To do!
+```
+$ wget https://github.com/RhysWhite/ST131_19_Pets/archive/master.zip -O ST131_19_Pets_v1.tar.gz
+$ unzip ST131_19_Pets_v1.tar.gz
+```
 
 **Option 2) Clone the current master branch in this repository:**
 
