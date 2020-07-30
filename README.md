@@ -53,8 +53,8 @@ Note: The data is ~102.4 MB
 
 **Option 1) Download the current release as an archive:**
 ```
-$ wget https://github.com/RhysWhite/ST131_19_Pets/archive/master.zip -O ST131_19_Pets_v1.tar.gz
-$ unzip ST131_19_Pets_v1.tar.gz
+$ wget https://github.com/RhysWhite/ST131_19_Pets/archive/master.zip -O ST131_19_Pets_AU_v1.tar.gz
+$ unzip ST131_19_Pets_AU_v1.tar.gz
 ```
 
 **Option 2) Clone the current master branch in this repository:**
@@ -64,7 +64,7 @@ Please ensure you have git installed. git can be really useful for scientists. S
 With git:
 
 ```
-$ git clone --recursive https://github.com/RhysWhite/ST131_19_Pets.git 
+$ git clone --recursive https://github.com/RhysWhite/ST131_19_Pets_AU.git 
 # The --recursive option is used to pull down all the smaller repositories
 ```
 
