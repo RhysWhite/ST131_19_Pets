@@ -5,7 +5,7 @@ This repository provides *de novo* assemblies of paired-end short-read sequencin
 Kidsley AK^, White RT, Beatson SA, Saputra S, Schembri MA, Gordon D, Johnson JR, O'Dea M, 
 Mollinger JL, Abraham S*,Trott DJ*. Companion animals are spillover hosts of the 
 multidrug-resistant human extraintestinal Escherichia coli pandemic clones ST131 and ST1193.
-Frontiers in Microbiology, (in press).
+Frontiers in Microbiology, 11 (2020).
 
 ^CORRESPONDING AUTHORS *AUTHORS CONTRIBUTED EQUALLY
 
